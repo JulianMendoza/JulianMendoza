@@ -8,7 +8,7 @@ julianmendoza#0637 <img align="left" alt="Abhishek's Discord" width="22px" src="
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JulianMendoza.JulianMendoza)
 
-<img align="right" alt="GIF" src="/assets/chess.gif" width="200" height="200" />
+<img align="right" alt="GIF" src="/assets/chess.gif" width="300" height="300" />
 
 <br />
 
