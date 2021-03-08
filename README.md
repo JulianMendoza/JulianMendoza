@@ -1,4 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="vertical-align:middle" alt="GIF" src="/assets/helloworld.gif" width="150" height="30" />
 
 julianmendoza#0637 <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
@@ -7,8 +8,6 @@ julianmendoza#0637 <img align="left" alt="Abhishek's Discord" width="22px" src="
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JulianMendoza.JulianMendoza)
-
-<img align="right" alt="GIF" src="/assets/helloworld.gif" width="600" height="118.5" />
 
 <br />
 
