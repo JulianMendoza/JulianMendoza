@@ -12,7 +12,7 @@ julianmendoza#0637 <img align="left" alt="Abhishek's Discord" width="22px" src="
 
 <br />
 
-Hello there, I'm [Julian](https://julianmendoza.ca/).  
+I'm [Julian](https://julianmendoza.ca/).  
 
  📝 [Resume](/assets/resume.pdf)
  
@@ -29,7 +29,4 @@ Hello there, I'm [Julian](https://julianmendoza.ca/).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
