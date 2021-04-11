@@ -16,9 +16,7 @@ I'm [Julian](https://julianmendoza.ca/).
  
  **Languages and Tools:**  
  
- ![Metrics](https://github.com/julianmendoza/julianmendoza/blob/main/metrics.plugin.languages.details.svg)
- 
- ![Metrics](https://github.com/julianmendoza/julianmendoza/blob/main/metrics.plugin.isocalendar.svg)
+ ![Metrics](https://github.com/julianmendoza/julianmendoza/blob/main/github-metrics.svg)
 
 <img src="https://github.com/julianmendoza/julianmendoza/blob/main/images/stat.svg" alt="Programming statistics"/>
 
