@@ -34,7 +34,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_isocalendar: yes
           # Automatic github token
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
