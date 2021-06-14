@@ -3,5 +3,3 @@ Technology enthusiast, Tinkerer, Aspiring Software Engineer | 🌎 [Personal Web
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JulianMendoza.JulianMendoza)
  
 ![Metrics](https://github.com/julianmendoza/julianmendoza/blob/main/github-metrics.svg)
-
-<img src="https://github.com/julianmendoza/julianmendoza/blob/main/images/stat.svg" alt="Programming statistics"/>
