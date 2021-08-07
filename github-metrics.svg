@@ -1227,20 +1227,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1266,14 +1266,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.0897746804108" height="8" fill="#adb2cb"/>
-                    <rect mask="url(#languages-bar)" x="287.0897746804108" y="0" width="85.49821076171442" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="372.5879854421252" y="0" width="69.46120936055966" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="442.0491948026849" y="0" width="7.523867931369707" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.57306273405464" y="0" width="5.1169065523596915" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.6899692864143" y="0" width="3.382964157055794" height="8" fill="#e4cc98"/>
-                    <rect mask="url(#languages-bar)" x="458.0729334434701" y="0" width="1.3007386127397105" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.3736720562098" y="0" width="0.6263279437901961" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.90551505732543" height="8" fill="#adb2cb"/>
+                    <rect mask="url(#languages-bar)" x="297.90551505732543" y="0" width="81.37255006395985" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="379.2780651212853" y="0" width="69.69907161135114" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="448.9771367326364" y="0" width="3.7102812978532347" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="452.68741803048965" y="0" width="3.12823319258303" height="8" fill="#e4cc98"/>
+                    <rect mask="url(#languages-bar)" x="455.8156512230727" y="0" width="3.0577650935756555" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.87341631664833" y="0" width="0.6414395085434632" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.5148558251918" y="0" width="0.48514417480817384" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1283,8 +1283,8 @@
                       VHDL
                     </div>
                             <small>
-                                <div>20.6 MB</div>
-                                <div>62.41%</div>
+                                <div>43.4 MB</div>
+                                <div>64.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1293,18 +1293,18 @@
                       C
                     </div>
                             <small>
-                                <div>4.99 MB</div>
-                                <div>15.1%</div>
+                                <div>10.1 MB</div>
+                                <div>15.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JavaScript
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e4cc98" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Tcl
                     </div>
                             <small>
-                                <div>367 kB</div>
-                                <div>1.11%</div>
+                                <div>455 kB</div>
+                                <div>0.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1314,7 +1314,7 @@
                     </div>
                             <small>
                                 <div>93.4 kB</div>
-                                <div>0.28%</div>
+                                <div>0.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1325,8 +1325,8 @@
                       HTML
                     </div>
                             <small>
-                                <div>6.14 MB</div>
-                                <div>18.59%</div>
+                                <div>11.8 MB</div>
+                                <div>17.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1336,17 +1336,17 @@
                     </div>
                             <small>
                                 <div>540 kB</div>
-                                <div>1.64%</div>
+                                <div>0.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e4cc98" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Tcl
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
                     </div>
                             <small>
-                                <div>243 kB</div>
-                                <div>0.74%</div>
+                                <div>445 kB</div>
+                                <div>0.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1355,8 +1355,8 @@
                       Shell
                     </div>
                             <small>
-                                <div>45 kB</div>
-                                <div>0.14%</div>
+                                <div>70.6 kB</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>
@@ -2348,7 +2348,12 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
+                            <g transform="translate(-8.5, 10.52)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.48 0,1.48 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.48 1.7,2.48 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
